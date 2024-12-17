@@ -1,6 +1,8 @@
 from os import *
 system("clear")
 
+# Name Shuffler
+
 def  soz_qaytar(soz):
     soz_1 = soz.split()
 
